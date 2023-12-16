@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Foodera-Landing-Page-ReactJs/static/css/main.d2678442.css",
+    "main.js": "/Foodera-Landing-Page-ReactJs/static/js/main.0b74f6ba.js",
+    "static/media/2.png": "/Foodera-Landing-Page-ReactJs/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/1.png": "/Foodera-Landing-Page-ReactJs/static/media/1.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/Foodera-Landing-Page-ReactJs/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/back.jpg": "/Foodera-Landing-Page-ReactJs/static/media/back.580213ab4b0ed0a48210.jpg",
+    "static/media/1.jpg": "/Foodera-Landing-Page-ReactJs/static/media/1.8dac9ee9eb3e67760871.jpg",
+    "static/media/hero-bg.jpg": "/Foodera-Landing-Page-ReactJs/static/media/hero-bg.4a91f04634f70648f973.jpg",
+    "static/media/01.jpg": "/Foodera-Landing-Page-ReactJs/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/02.jpg": "/Foodera-Landing-Page-ReactJs/static/media/02.a567a9db1482b99c0fab.jpg",
+    "static/media/dev3.jpg": "/Foodera-Landing-Page-ReactJs/static/media/dev3.84176b89a7399aaf45b5.jpg",
+    "static/media/dev.jpg": "/Foodera-Landing-Page-ReactJs/static/media/dev.f6e73c4517115760b4e6.jpg",
+    "static/media/dev2.jpg": "/Foodera-Landing-Page-ReactJs/static/media/dev2.cc60a06be3416c2fbcb1.jpg",
+    "index.html": "/Foodera-Landing-Page-ReactJs/index.html",
+    "main.d2678442.css.map": "/Foodera-Landing-Page-ReactJs/static/css/main.d2678442.css.map",
+    "main.0b74f6ba.js.map": "/Foodera-Landing-Page-ReactJs/static/js/main.0b74f6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2678442.css",
+    "static/js/main.0b74f6ba.js"
+  ]
+}
