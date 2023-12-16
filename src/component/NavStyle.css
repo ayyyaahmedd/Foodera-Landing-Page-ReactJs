@@ -1,0 +1,38 @@
+nav{
+    background-color: #fff !important;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+}
+nav a{
+    color: #ab3550 !important ; 
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: bold !important;
+}
+.navbar-brand img{
+    max-width: 120px;
+    height: 90%;
+}
+nav .contact-num{
+    border: 1px solid #ab3550;
+    background-color: #ab3550;
+    box-sizing: border-box;
+    color: #fff !important;
+}
+nav .list-item:hover{
+    color: orange !important ;
+}
+.contact-num:hover{
+    background-color: transparent;
+    color: #ab3550 !important;
+    transition: 0.5s ease;
+}
+@media (min-width: 320px) {
+    nav .contact-num{
+        background-color: #ab3550;
+        width: 137px;
+        padding: 7px;
+    }
+}
