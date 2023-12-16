@@ -7,9 +7,9 @@ import About from  './about'
 
 const root = createBrowserRouter(
     createRoutesFromElements(
-        <Route path ="/" element={<RootLayout />}>
-            <Route index element={<Home/>} /> 
-            <Route path="/about" element={<About/>} /> 
+        <Route path ="/Foodera-Landing-Page-ReactJs/" element={<RootLayout />}>
+            <Route path='/Foodera-Landing-Page-ReactJs/' element={<Home/>} /> 
+            <Route path="/Foodera-Landing-Page-ReactJs/about" element={<About/>} /> 
             
         </Route>
     )
